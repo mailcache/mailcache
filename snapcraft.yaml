@@ -1,0 +1,22 @@
+name: mailcache
+summary: Web and API based SMTP testing
+description: |
+ MailCache is an email testing tool for developers:
+ * Configure your application to use MailCache for SMTP delivery
+ * View messages in the web UI, or retrieve them with the JSON API
+ * Optionally release messages to real SMTP servers for delivery
+version: "master"
+confinement: strict
+grade: stable
+apps:
+  mailcache:
+    command: MailCache
+    plugs: [network-bind]
+    daemon: simple
+parts:
+  mailcache:
+    plugin: go
+    go-packages:
+      - github.com/mailcache/mailcache
+    build-packages:
+      - git
