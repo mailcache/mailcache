@@ -38,22 +38,22 @@ github.com/mailcache/mailcache-server/config
 github.com/mailcache/mailcache-server/monkey
 github.com/mailcache/mailcache-server/smtp
 github.com/mailcache/mailcache-server/websockets
-# github.com/mailcache/mailcache-ui v1.0.0
-## explicit; go 1.26.5
+# github.com/mailcache/mailcache-ui v1.0.1
+## explicit
 github.com/mailcache/mailcache-ui/assets
 github.com/mailcache/mailcache-ui/config
 github.com/mailcache/mailcache-ui/web
 # github.com/mailcache/pat v1.0.0
 ## explicit; go 1.20
 github.com/mailcache/pat
-# github.com/mailcache/sendmail v1.0.1
+# github.com/mailcache/sendmail v1.0.3
 ## explicit; go 1.26.5
 github.com/mailcache/sendmail/cmd
 # github.com/mailcache/smtp v1.0.0
 ## explicit; go 1.26.5
 github.com/mailcache/smtp
-# github.com/mailcache/storage v1.0.0
-## explicit
+# github.com/mailcache/storage v1.0.1
+## explicit; go 1.26.5
 github.com/mailcache/storage
 # github.com/philhofer/fwd v1.2.0
 ## explicit; go 1.20

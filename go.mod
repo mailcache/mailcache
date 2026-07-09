@@ -7,9 +7,9 @@ require (
 	github.com/mailcache/go-log v1.0.0
 	github.com/mailcache/http v1.0.0
 	github.com/mailcache/mailcache-server v1.0.0
-	github.com/mailcache/mailcache-ui v1.0.0
+	github.com/mailcache/mailcache-ui v1.0.1
 	github.com/mailcache/pat v1.0.0
-	github.com/mailcache/sendmail v1.0.1
+	github.com/mailcache/sendmail v1.0.3
 	golang.org/x/crypto v0.54.0
 )
 
@@ -22,7 +22,7 @@ require (
 	github.com/mailcache/goose v1.0.0 // indirect
 	github.com/mailcache/linkio v1.0.0 // indirect
 	github.com/mailcache/smtp v1.0.0 // indirect
-	github.com/mailcache/storage v1.0.0 // indirect
+	github.com/mailcache/storage v1.0.1 // indirect
 	github.com/philhofer/fwd v1.2.0 // indirect
 	github.com/spf13/pflag v1.0.10 // indirect
 	github.com/t-k/fluent-logger-golang v1.0.0 // indirect
