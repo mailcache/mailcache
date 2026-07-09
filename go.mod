@@ -7,7 +7,7 @@ require (
 	github.com/mailcache/go-log v1.0.0
 	github.com/mailcache/http v1.0.0
 	github.com/mailcache/mailcache-server v1.0.0
-	github.com/mailcache/mailcache-ui v1.0.3
+	github.com/mailcache/mailcache-ui v1.0.4
 	github.com/mailcache/pat v1.0.0
 	github.com/mailcache/sendmail v1.0.3
 	golang.org/x/crypto v0.54.0
