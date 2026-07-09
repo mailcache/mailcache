@@ -18,8 +18,8 @@ pull:
 	git pull
 	cd ../data; git pull
 	cd ../http; git pull
-	cd ../MailCache-Server; git pull
-	cd ../MailCache-UI; git pull
+	cd ../mailcache-mailcache; git pull
+	cd ../mailcache-ui; git pull
 	cd ../smtp; git pull
 	cd ../storage; git pull
 
@@ -27,8 +27,8 @@ tag:
 	git tag -a -m 'v${VERSION}' v${VERSION} && git push origin v${VERSION}
 	cd ../data; git tag -a -m 'v${VERSION}' v${VERSION} && git push origin v${VERSION}
 	cd ../http; git tag -a -m 'v${VERSION}' v${VERSION} && git push origin v${VERSION}
-	cd ../MailCache-Server; git tag -a -m 'v${VERSION}' v${VERSION} && git push origin v${VERSION}
-	cd ../MailCache-UI; git tag -a -m 'v${VERSION}' v${VERSION} && git push origin v${VERSION}
+	cd ../mailcache-server; git tag -a -m 'v${VERSION}' v${VERSION} && git push origin v${VERSION}
+	cd ../mailcache-ui; git tag -a -m 'v${VERSION}' v${VERSION} && git push origin v${VERSION}
 	cd ../smtp; git tag -a -m 'v${VERSION}' v${VERSION} && git push origin v${VERSION}
 	cd ../storage; git tag -a -m 'v${VERSION}' v${VERSION} && git push origin v${VERSION}
 

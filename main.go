@@ -16,8 +16,8 @@ import (
 	cfgui "github.com/mailcache/mailcache-ui/config"
 	"github.com/mailcache/mailcache-ui/web"
 	cfgcom "github.com/mailcache/mailcache/config"
-	"github.com/mailcache/mhsendmail/cmd"
 	"github.com/mailcache/pat"
+	"github.com/mailcache/sendmail/cmd"
 	"golang.org/x/crypto/bcrypt"
 )
 
