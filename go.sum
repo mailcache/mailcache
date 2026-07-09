@@ -34,8 +34,8 @@ github.com/mailcache/linkio v1.0.0 h1:MbmlFJUYSxX/+xssZ8y3bOCevH7w26zp+YfH2ilCzL
 github.com/mailcache/linkio v1.0.0/go.mod h1:+Gs73i+Zsq1nDo4QDzKuapR3PjwjqOKawk/lNQdIR4E=
 github.com/mailcache/mailcache-server v1.0.0 h1:303dNzGu5WeNc2oH2nITXs4RcatSd9mNNYa0Ea1MZkc=
 github.com/mailcache/mailcache-server v1.0.0/go.mod h1:saiJC7CeCKyfYu/4cOS5/6wi25fP2plIhC3GD6yhbPU=
-github.com/mailcache/mailcache-ui v1.0.1 h1:R8bUojYUEg/UzAtZsGWjSGxbzzlquYJXA5u9929xcuY=
-github.com/mailcache/mailcache-ui v1.0.1/go.mod h1:zl3C7YKWv/rwei7Le//AerGt+i5faQDWFDNRhBZoS18=
+github.com/mailcache/mailcache-ui v1.0.3 h1:UmU4ElJA6jukbeISYROz4/rzUzIeYLM1TF5BCyagzr0=
+github.com/mailcache/mailcache-ui v1.0.3/go.mod h1:m3crT055om5JZRrR7OHCfOCaFDr5jC2yPNNqv4sAkyY=
 github.com/mailcache/pat v1.0.0 h1:5ZKtm90mGzs7gpk56rZWDCgg1JWyfWaD1yB+t8v1mKU=
 github.com/mailcache/pat v1.0.0/go.mod h1:DDCdyeh42Jlt9eVuYtXP9WmbjfZg/4MWoVFzYSh6DBY=
 github.com/mailcache/sendmail v1.0.3 h1:x3vyp+lgz9LYWFKhG4rHR0yrEw9Gfa7jFMCoFndvnwk=
