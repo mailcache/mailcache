@@ -1,0 +1,80 @@
+# github.com/gorilla/context v1.1.2
+## explicit; go 1.20
+github.com/gorilla/context
+# github.com/gorilla/mux v1.8.1
+## explicit; go 1.20
+github.com/gorilla/mux
+# github.com/gorilla/websocket v1.5.3
+## explicit; go 1.12
+github.com/gorilla/websocket
+# github.com/ian-kent/go-log v0.0.0-20160113211217-5731446c36ab
+## explicit
+github.com/ian-kent/go-log/appenders
+github.com/ian-kent/go-log/layout
+github.com/ian-kent/go-log/levels
+github.com/ian-kent/go-log/logger
+# github.com/mailcache/data v1.0.0
+## explicit; go 1.26.5
+github.com/mailcache/data
+# github.com/mailcache/envconf v1.0.0
+## explicit; go 1.26.5
+github.com/mailcache/envconf
+# github.com/mailcache/go-log v1.0.0
+## explicit
+github.com/mailcache/go-log/log
+# github.com/mailcache/goose v1.0.0
+## explicit; go 1.26.5
+github.com/mailcache/goose
+# github.com/mailcache/http v1.0.0
+## explicit; go 1.26.5
+github.com/mailcache/http
+# github.com/mailcache/linkio v1.0.0
+## explicit
+github.com/mailcache/linkio
+# github.com/mailcache/mailcache-server v1.0.0
+## explicit; go 1.26.5
+github.com/mailcache/mailcache-server/api
+github.com/mailcache/mailcache-server/config
+github.com/mailcache/mailcache-server/monkey
+github.com/mailcache/mailcache-server/smtp
+github.com/mailcache/mailcache-server/websockets
+# github.com/mailcache/mailcache-ui v1.0.0
+## explicit; go 1.26.5
+github.com/mailcache/mailcache-ui/assets
+github.com/mailcache/mailcache-ui/config
+github.com/mailcache/mailcache-ui/web
+# github.com/mailcache/pat v1.0.0
+## explicit; go 1.20
+github.com/mailcache/pat
+# github.com/mailcache/sendmail v1.0.1
+## explicit; go 1.26.5
+github.com/mailcache/sendmail/cmd
+# github.com/mailcache/smtp v1.0.0
+## explicit; go 1.26.5
+github.com/mailcache/smtp
+# github.com/mailcache/storage v1.0.0
+## explicit
+github.com/mailcache/storage
+# github.com/philhofer/fwd v1.2.0
+## explicit; go 1.20
+github.com/philhofer/fwd
+# github.com/spf13/pflag v1.0.10
+## explicit; go 1.12
+github.com/spf13/pflag
+# github.com/t-k/fluent-logger-golang v1.0.0
+## explicit
+github.com/t-k/fluent-logger-golang/fluent
+# github.com/tinylib/msgp v1.6.4
+## explicit; go 1.24
+github.com/tinylib/msgp/msgp
+# golang.org/x/crypto v0.54.0
+## explicit; go 1.25.0
+golang.org/x/crypto/bcrypt
+golang.org/x/crypto/blowfish
+# gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22
+## explicit
+gopkg.in/mgo.v2
+gopkg.in/mgo.v2/bson
+gopkg.in/mgo.v2/internal/json
+gopkg.in/mgo.v2/internal/sasl
+gopkg.in/mgo.v2/internal/scram

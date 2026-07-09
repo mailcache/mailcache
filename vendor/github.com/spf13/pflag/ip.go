@@ -6,8 +6,6 @@ import (
 	"strings"
 )
 
-var _ = strings.TrimSpace
-
 // -- net.IP value
 type ipValue net.IP
 
@@ -18,6 +16,9 @@ func newIPValue(val net.IP, p *net.IP) *ipValue {
 
 func (i *ipValue) String() string { return net.IP(*i).String() }
 func (i *ipValue) Set(s string) error {
+	if s == "" {
+		return nil
+	}
 	ip := net.ParseIP(strings.TrimSpace(s))
 	if ip == nil {
 		return fmt.Errorf("failed to parse IP: %q", s)

@@ -4,12 +4,12 @@ go 1.26.5
 
 require (
 	github.com/mailcache/envconf v1.0.0
-	github.com/mailcache/go-log v0.0.0-20160113211217-5731446c36ab
+	github.com/mailcache/go-log v1.0.0
 	github.com/mailcache/http v1.0.0
 	github.com/mailcache/mailcache-server v1.0.0
 	github.com/mailcache/mailcache-ui v1.0.0
 	github.com/mailcache/pat v1.0.0
-	github.com/mailcache/sendmail v1.0.0
+	github.com/mailcache/sendmail v1.0.1
 	golang.org/x/crypto v0.54.0
 )
 
